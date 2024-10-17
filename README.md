@@ -8,7 +8,7 @@
 <p>
   Oi 👋, sou o Caio! Um estudante apaixonado por Ciência da Computação.
 
-- 🌱 Atualmente estou estudando Java e experimentando código nas minhas horas vagas.
+- 🌱 Atualmente estou estudando Java e codando nas minhas horas vagas :)
 
 - 🔭 Meu sonho? Trabalhar em uma grande multinacional de tecnologia, resolvendo problemas complexos e, quem sabe, ganhando uns lanches grátis no caminho. 😄
 
