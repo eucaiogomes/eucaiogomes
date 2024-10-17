@@ -23,9 +23,10 @@ PS: Isso foi escrito por uma IA 😉
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 19 years old, from Amazonas, and studying Computer Science. Currently, I am diving deep into Java and dreaming of working at a big tech company.
-  
-  - ⚡ I love enjoying açaí and binge-watching series! I believe our hobbies shape our creativity, and I’m always looking for new ideas to grow in the tech world.
+
+- 💬 Tenho 19 anos, sou amazonense e estudo Ciência da Computação. No momento, estou me aprofundando em Java e sonhando em trabalhar em uma grande empresa de tecnologia.
+
+- ⚡ Amo tomar açaí e maratonar séries! Acredito que nossos hobbies moldam nossa criatividade, e estou sempre buscando novas ideias para crescer no mundo da tecnologia.
 </details>
 
 <!-- Links -->
