@@ -1,7 +1,8 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <img src="https://media.licdn.com/dms/image/v2/D4D16AQGKginbytZasg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727289221798?e=1734566400&v=beta&t=GeKlT2yoe-5AhrKIv6FKFcF8VBVualpCwPFhthiRmd4" alt="Imagem de apresentação" style="max-width: 100%; height: auto;">
+  </ul>
 </div>
 
 <!-- Presentation -->
@@ -19,13 +20,13 @@ PS: Isso foi escrito por uma IA 😉
 <details>
   <summary>👨‍💻 Sobre mim</summary>
 
-
 - 💬 Tenho 19 anos, sou amazonense e estudo Ciência da Computação. No momento, estou me aprofundando em Java e sonhando em trabalhar em uma grande empresa de tecnologia.
 
 - ⚡ Amo tomar açaí e maratonar séries! Acredito que nossos hobbies moldam nossa criatividade, e estou sempre buscando novas ideias para crescer no mundo da tecnologia.
 </details>
 
 <!-- Links -->
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-gomes-8bb741219)
 [![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gcaio98406@gmail.com)
 
