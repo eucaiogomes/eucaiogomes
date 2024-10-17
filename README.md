@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-Oi 👋, sou o Caio! Um estudante apaixonado por Ciência da Computação do Brasil.
+  Oi 👋, sou o Caio! Um estudante apaixonado por Ciência da Computação.
 
 - 🌱 Atualmente estou estudando Java e experimentando código nas minhas horas vagas.
 
