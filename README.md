@@ -7,7 +7,6 @@
 
 <!-- Presentation -->
 <p>
-    Oi 👋, sou o Caio!
 
 - 🌱 Atualmente estou estudando Ciências da Computação e codando nas minhas horas vagas :)
 
