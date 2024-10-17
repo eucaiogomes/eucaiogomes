@@ -12,8 +12,6 @@
 
 - 🔭 Meu sonho? Trabalhar em uma grande multinacional de tecnologia, resolvendo problemas complexos e, quem sabe, ganhando uns lanches grátis no caminho. 😄
 
-- 👨‍💻 Quando não estou programando, provavelmente estou imaginando meu futuro assistente de IA depurando meu código para mim... ou tentando não quebrar nada enquanto aprendo Java!
-
 Vamos fazer acontecer! 🚀
 
 PS: Isso foi escrito por uma IA 😉
@@ -21,7 +19,7 @@ PS: Isso foi escrito por uma IA 😉
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Sobre mim</summary>
 
 
 - 💬 Tenho 19 anos, sou amazonense e estudo Ciência da Computação. No momento, estou me aprofundando em Java e sonhando em trabalhar em uma grande empresa de tecnologia.
