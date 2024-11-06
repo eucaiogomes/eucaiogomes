@@ -26,8 +26,8 @@ PS: Isso foi escrito por uma IA 😉
 
 <!-- Links -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-gomes-8bb741219)
-[![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gcaio98406@gmail.com)
+!LinkedIn
+!Email
 
 <!-- Portfolio -->
 ## Portfolio:
@@ -55,6 +55,8 @@ PS: Isso foi escrito por uma IA 😉
   <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="NetBeans" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg">
+  <img align="center" alt="Eclipse" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
+  <img align="center" alt="IntelliJ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
 </div>
 
 <!-- Skills: Libraries -->
@@ -62,3 +64,8 @@ PS: Isso foi escrito por uma IA 😉
   <h3>Libraries</h3>
   <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 </div>
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Gif de um jovem correndo">
+</p>
