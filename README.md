@@ -71,7 +71,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=eucaiogomes&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
