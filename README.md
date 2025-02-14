@@ -6,7 +6,7 @@
 <details>
   <summary>👨‍💻 Um pouco mais sobre mim...</summary>
 
-- 💬 **Idade**: 19 anos | **Natural**: Amazonas
+- 💬 **Idade**: 29 anos | **Natural**: Amazonas
 - 📚 Atualmente estou focado em **Java**, mas estou sempre aberto para aprender novas tecnologias!
 - 🚀 **Objetivo**: Conquistar minha primeira vaga como desenvolvedor e continuar evoluindo na área de desenvolvimento de software.
 
