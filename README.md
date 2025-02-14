@@ -1,6 +1,6 @@
 # Olá, você encontrou o repositório do Caio! 🚀
 
-### 🎓 **Estudante de Ciências da Computação**, com formação prevista para 2027!
+### 🎓 **Estudante de Ciências da Computação**!
 ### 🌍 **Objetivo**: Aprender mais sobre tecnologia, programação e me aprofundar nesse mundo de desenvolvimento!
 
 <details>
