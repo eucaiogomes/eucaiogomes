@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 5rem;">🎬 CaioFlix: Codificando com Emoção</h1>
+<h1 align="center" style="font-size: 5rem;">🎬 Bem-vindo(a) Ao Meu Cantinho DEv</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STREAMING%20AGORA-CODING%20TIME-red?style=for-the-badge"/>
