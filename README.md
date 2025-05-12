@@ -1,55 +1,56 @@
-# Olá, você encontrou o repositório do Caio! 🚀
+<h1 align="center" style="color: red;">🎬 CaioFlix: Meu Universo Dev</h1>
 
-### 🎓 **Estudante de Ciências da Computação**!
-### 🌍 **Objetivo**: Aprender mais sobre tecnologia, programação e me aprofundar nesse mundo de desenvolvimento!
-
-<details>
-  <summary>👨‍💻 Um pouco mais sobre mim...</summary>
-
-- 💬 **Idade**: 29 anos | **Natural**: Amazonas
-- 📚 Atualmente estou focado em **Java**, mas estou sempre aberto para aprender novas tecnologias!
-- 🚀 **Objetivo**: Conquistar minha primeira vaga como desenvolvedor e continuar evoluindo na área de desenvolvimento de software.
-
-</details>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED1D24?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dev%20Mode-ON-red?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🚀 Onde me encontrar
+### 🍿 Sobre mim
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-gomes-8bb741219)
-[![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gcaio98406@gmail.com)
-
-## 🔥 Minhas Skills
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-
-  <!-- Linguagens de Programação -->
-  <div style="flex-basis: 48%; text-align: center;">
-    <h3>Linguagens de Programação</h3>
-    <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-  <!-- Ferramentas e Frameworks -->
-  <div style="flex-basis: 48%; text-align: center;">
-    <h3>Ferramentas & Frameworks</h3>
-    <img alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-  <img alt="IntelliJ IDEA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-  </div>
-
-  <!-- Bibliotecas -->
+🎓 Estudante de <strong>Ciências da Computação</strong>  
+📍 Do coração do Amazonas para o mundo 🌍  
+🎯 Buscando minha **primeira vaga como desenvolvedor Java**  
+🔥 Apaixonado por código, aprendizado e café ☕  
+🧠 Motto: <em>“Constância vence o talento”</em>
 
 ---
 
-## 🎯 Meu Objetivo de Aprendizado
-Estou focado em **desenvolvimento de software** com **Java**, e quero explorar ainda mais o **mundo de tecnologias e desenvolvimento**. Acredito firmemente que **constância é a chave para o sucesso**, porque, como sempre digo, "constância vence o talento". Estou determinado a evoluir e alcançar meus objetivos!
+### 🎥 Catálogo de Tecnologias
+
+#### 🎬 Linguagens que estou assistindo:
+![Java](https://img.shields.io/badge/Java-ED1D24?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🧰 Ferramentas no meu controle remoto:
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## 💡 Contribuições
+### 🧠 Em "maratona" de aprendizado
 
-Estou sempre aberto(a) a contribuições! Se você tem sugestões, encontrou bugs ou tem algum feedback sobre meus projetos, fique à vontade para abrir uma *issue* ou enviar um *pull request*. Vamos construir algo incrível juntos!
+📌 Foco em:  
+- Lógica de Programação  
+- Orientação a Objetos  
+- Java e Back-End  
+- Projetos práticos com constância
 
 ---
+
+### 📺 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-gomes-8bb741219)
+[![Email](https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gcaio98406@gmail.com)
+
+---
+
+<p align="center">
+  🍿 Obrigado por assistir! Vamos codar juntos?  
+  <br/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px"/>
+</p>
