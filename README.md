@@ -24,12 +24,12 @@
 
 <h2 align="center">🌟 Em Destaque Hoje</h2>
 
-> 🔥 **Título**: *A Jornada do Desenvolvedor*  
+> 🔥 **Título**: *Caio Thiago da Mata Gomes*  
 > 🎓 **Gênero**: Estudante de Ciências da Computação  
 > 📍 **Localização**: Amazonas, Brasil  
 > 🎯 **Meta Atual**: Primeira vaga como desenvolvedor Java  
 > 💬 **Filosofia**: “Constância vence o talento.”  
-> ☕ **Trilha Sonora**: Café, Código e Conexão divina 🙏
+> ☕ **Trilha Sonora**: Café, Código e Música 🙏
 
 ---
 
@@ -59,7 +59,7 @@
 
 ---
 
-<h2 align="center">📡 Transmitindo para o Mundo</h2>
+<h2 align="center">📡 Como me encontrar...</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/caio-gomes-8bb741219">
