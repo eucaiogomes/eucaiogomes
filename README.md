@@ -26,7 +26,7 @@
 
 > 🔥 **Título**: *Caio Thiago da Mata Gomes*  
 > 🎓 **Gênero**: Estudante de Ciências da Computação  
-> 📍 **Localização**: Amazonas, Brasil  
+> 📍 **Localização**: Blumenau, SC. 
 > 🎯 **Meta Atual**: Primeira vaga como desenvolvedor Java  
 > 💬 **Filosofia**: “Constância vence o talento.”  
 > ☕ **Trilha Sonora**: Café, Código e Música 🙏
