@@ -35,10 +35,46 @@ public class CaioGomes {
 ### 🐍 Contribuições
 
 <div align="center">
-  <img src="https://github.com/eucaiogomes/eucaiogomes/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eucaiogomes/eucaiogomes/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eucaiogomes/eucaiogomes/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/eucaiogomes/eucaiogomes/output/github-snake.svg" />
+  </picture>
 </div>
 
-> *Para a cobrinha aparecer, siga [este guia](https://github.com/Platane/snk) para configurar a GitHub Action.*
+<details>
+<summary>⚙️ Como configurar a cobrinha</summary>
+
+Crie o arquivo `.github/workflows/snake.yml` no seu repositório de perfil:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # roda todo dia à meia-noite
+  workflow_dispatch:        # permite rodar manualmente
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 ---
 
