@@ -42,43 +42,6 @@ public class CaioGomes {
   </picture>
 </div>
 
-<details>
-<summary>⚙️ Como configurar a cobrinha</summary>
-
-Crie o arquivo `.github/workflows/snake.yml` no seu repositório de perfil:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-```
-
-</details>
-
----
 
 ### 📬 Contato
 
