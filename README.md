@@ -9,9 +9,9 @@
 // CaioGomes.java
 public class CaioGomes {
 
-    String[] stack     = { "Java", "Python", "TypeScript", "HTML/CSS", "C" };
+    String[] stack     = { "Java", "Python", "TypeScript", "HTML/CSS", "C", JS };
     String[] databases = { "MySQL", "MariaDB", "Supabase" };
-    String   goal      = "Primeira vaga como desenvolvedor Java";
+    String   goal      = "Crescimento Profissional na área de TI";
     String   location  = "Blumenau, SC 🌧️";
     String   vibe      = "Café + Código + Música ☕";
 
